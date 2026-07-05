@@ -437,7 +437,7 @@ GitHub:
 [uddipta089](https://github.com/uddipta089)
 
 Email:
-[uddiptapathak0831@gmail.com](uddiptapathak0831@gmail.com)
+<uddiptapathak0831@gmail.com>
 
 ---
 
