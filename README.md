@@ -420,7 +420,8 @@ Power BI Service
 
 # Dataset
 
-[Banking Loan Dataset](https://github.com/user-attachments/files/29678038/Loan_default.1.csv)
+[Banking Loan Dataset](https://github.com/user-attachments/files/29678379/Banking.Loan.Dataset.zip)
+
 
 
 ---
